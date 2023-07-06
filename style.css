@@ -1,0 +1,65 @@
+body{
+  background-color: black;
+}
+.button1280{
+  width: 400px;
+  margin: 20px;
+  height: 100px;
+  transition: 1s;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnDiscord {
+  background-color: #5865F2;
+}
+
+.btnDiscord:hover {
+  background-color: #181c41;
+}
+
+
+.btnGit {
+  background-color: #b3b3b3;
+}
+
+.btnGit:hover {
+  background-color: rgb(71, 71, 71);
+}
+
+.btnmail {
+  background-color: #64221c;
+}
+
+
+.btnmail:hover {
+  background-color: #250d0b;
+}
+
+
+.btntg {
+  background-color: #34aadf;
+}
+
+
+.btntg:hover {
+  background-color: #123849;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+button {
+  padding: 0;
+  border: none;
+}
