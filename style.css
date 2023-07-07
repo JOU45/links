@@ -12,6 +12,12 @@ body{
   align-items: center;
 }
 
+@media(max-width:640px){
+  .button1280{
+    width: 300px !important;
+  }
+}
+
 .btnDiscord {
   background-color: #5865F2;
 }
